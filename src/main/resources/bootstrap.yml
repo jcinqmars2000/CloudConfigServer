@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: CloudConfigServer
+#    name: lab-3-client
+  cloud:
+    config:
+      uri: http://conf.responsible-nrg.com:8001
+ #     uri: http://localhost:8001
+server:
+  port: 8002
