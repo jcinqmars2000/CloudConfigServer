@@ -11,4 +11,3 @@ public class Lab3CloudConfigServerApplication {
 		SpringApplication.run(Lab3CloudConfigServerApplication.class, args);
 	}
 }
-//Test push to Jenkins again
